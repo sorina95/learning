@@ -1,0 +1,2 @@
+https://medium.com/geekculture/yolov4-inference-using-opencv-dnn-cuda-on-windows-e7ca995bcacd
+
